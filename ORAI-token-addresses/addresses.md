@@ -13,3 +13,4 @@ Address | Name
  [0xbecc8fda656926a8aed60edb18a7eb0e137a8732](https://etherscan.io/address/0xbecc8fda656926a8aed60edb18a7eb0e137a8732) | yAI.Finance: ORAI Reward
  [0x10aE8d6096A91C2e8f776c765f04b9226e20Be11](https://etherscan.io/address/0x10aE8d6096A91C2e8f776c765f04b9226e20Be11) | yAI.Finance: ORAI Reward (locked)
  [0x9081b50bad8beefac48cc616694c26b027c559bb](https://etherscan.io/address/0x9081b50bad8beefac48cc616694c26b027c559bb) | Uniswap: ORAI contract
+ [0x4Eb9f18ec0fbfE75670d9bDF3543e2B860Ab5a83](https://etherscan.io/address/0x4Eb9f18ec0fbfE75670d9bDF3543e2B860Ab5a83) | Uniswap: Contract deployer
