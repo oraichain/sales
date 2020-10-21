@@ -1,10 +1,4 @@
-<style>
-table {
-    width:100%;
-}
-</style>
-
-Last updated: Wednesday, 21-Oct-20 01:20:53 UTC
+Last updated: Wednesday, 21-Oct-20 01:29:25 UTC
 
 # List of ORAI addresses managed by the team to serve the community. 
 
@@ -18,5 +12,4 @@ Address | Name
  [0xbecc8fda656926a8aed60edb18a7eb0e137a8732](https://etherscan.io/address/0xbecc8fda656926a8aed60edb18a7eb0e137a8732) | yAI.Finance ORAI reward
  [0x9081b50bad8beefac48cc616694c26b027c559bb](https://etherscan.io/address/0x9081b50bad8beefac48cc616694c26b027c559bb) | ORAI Uniswap contract
  [0x10aE8d6096A91C2e8f776c765f04b9226e20Be11](https://etherscan.io/address/0x10aE8d6096A91C2e8f776c765f04b9226e20Be11) | yAI ORAI reward lock
- [0x7B60c94E95Dcc35e9c8f5D3c2e871e3eCEe1358B](https://etherscan.io/address/0x7B60c94E95Dcc35e9c8f5D3c2e871e3eCEe1358B) | 
- Seed sale lock
+ [0x7B60c94E95Dcc35e9c8f5D3c2e871e3eCEe1358B](https://etherscan.io/address/0x7B60c94E95Dcc35e9c8f5D3c2e871e3eCEe1358B) | Seed sale lock
